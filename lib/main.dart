@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'firebase_options.dart';
+import '../firebase_options.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:mobile_app_v2/application/auth/auth_cubit.dart';
 import 'package:mobile_app_v2/infrastructure/auth/auth_repository.dart';
